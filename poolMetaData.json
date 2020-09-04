@@ -1,7 +1,7 @@
 {
   "name": "Ominira",
   "ticker": "OMNRA",
-  "description": "...",
+  "description": "Ominira is a secure Cardano stake pool developed in the spirit of self-sufficiency and economic independence.",
   "homepage": "https://www.ominira.net",
   "pledge_address": "addr1q8aa9e92d9n7vjvdryfuewcw5e4m9wmn36ze8mkxsztu8q39navee0vcmvdq7kul9h6drvgttsx7mr3hg4ap7zw94jvsreecqk"
 }
